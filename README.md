@@ -1,4 +1,4 @@
-# Jokempô App
+# Jokenpô App
 
 App criado para momento de lazer, utilizando o jogo popularmente conhecido por pedra, papel e tesoura.
 O funcionamento do App é simples, o usuário vai selecionar uma das três opções de imagens, que são pedra, papel ou tesoura,
