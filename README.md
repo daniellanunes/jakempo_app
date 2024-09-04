@@ -5,4 +5,5 @@ O funcionamento do App é simples, o usuário vai selecionar uma das três opç�
 e ao selecionar, automaticamento o app fara a escolha dele, fazendo a comparação e mostrando o resultado do ganhador ou se houve um empate.
 
 
-![jokempo_git](https://github.com/user-attachments/assets/972d0767-95ee-44e9-98bf-5022365de0f6)
+![jokenpo git](https://github.com/user-attachments/assets/4559605b-8636-4447-a451-43cae610b038)
+
